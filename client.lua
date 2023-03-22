@@ -75,7 +75,7 @@ exports['qb-target']:AddBoxZone("cdcreator", vector3(-821.69, -724.09, 32.34), 0
         if IsPedAPlayer(entity) then return false end
         OpenMenu()
       end,
-      job = "wuchang"
+      job = Config.job
     }
   },
   distance = 2.5,
