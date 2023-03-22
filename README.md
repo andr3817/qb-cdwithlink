@@ -37,3 +37,10 @@ Example picture:
 3. take the picture that is in the repo called musicdisc.png and put that into your qb-inventory/html/images or if you in the case of using ox_inventory put it in the ox_inventory/web/images
 
 4. put the resource into your [qb] folder and youre good to go
+
+5. Function of the script
+
+
+***The function of the resource is very basic, when you have the cd in your inventory you can copy the link that the cd has in the metadata from creating the cd.
+When using the cd the link will be copied to your clipboard for you to play in a dj stand or a car radio of some sort***
+
